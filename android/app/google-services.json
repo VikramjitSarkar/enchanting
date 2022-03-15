@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "462050796738",
+    "project_id": "enchanting-f8ebc",
+    "storage_bucket": "enchanting-f8ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462050796738:android:752f0915f58c3543ec475b",
+        "android_client_info": {
+          "package_name": "com.shaderbytes.enchanting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462050796738-v738irl5c45fgcu0l2d1vv4am6fick69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIElZ_Ld90n7LN0TYAomVy7ULpTsqDPHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462050796738-v738irl5c45fgcu0l2d1vv4am6fick69.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462050796738-bi4o4mrkisan2d2vv83dlapirbti49ak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shaderbytes.enchanting"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
